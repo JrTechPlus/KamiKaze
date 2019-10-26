@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]IPTV[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Iptv</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES ESTÃO AQUI. - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601402.us.archive.org/32/items/filmes-2019_201910/filmes-2019.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Filmes</externallink>
