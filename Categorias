@@ -1,9 +1,9 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]IPTV[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
+<name>[COLOR springgreen]IPTV AO VIVO[/COLOR]</name>
+<thumbnail>https://dicasuteis.online/wp-content/uploads/2019/01/iptv-1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Iptv</externallink>
-<fanart></fanart>
+<fanart>https://cdn.pixabay.com/photo/2017/07/31/18/28/room-2559790_960_720.jpg</fanart>
 <info>
 
 
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR springgreen]FILMES[/COLOR]</name>
 <thumbnail>https://ia601402.us.archive.org/32/items/filmes-2019_201910/filmes-2019.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Filmes</externallink>
 <fanart>https://ia601402.us.archive.org/32/items/filmes-2019_201910/Fanart%20filmes.jpg</fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR springgreen]SÉRIES[/COLOR]</name>
 <thumbnail>https://ia601402.us.archive.org/32/items/filmes-2019_201910/S%C3%89RIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/S%C3%A9ries</externallink>
 <fanart>https://ia601402.us.archive.org/32/items/filmes-2019_201910/Fanart%20S%C3%A9ries.jpg</fanart>
@@ -45,7 +45,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]KIDS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR springgreen]KIDS[/COLOR]</name>
 <thumbnail>https://ia601402.us.archive.org/32/items/filmes-2019_201910/KIDS.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601402.us.archive.org/32/items/filmes-2019_201910/Fanart%20Kids.jpg</fanart>
