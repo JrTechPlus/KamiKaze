@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[B][COLOR springgreen]LANÇAMENTOS[/COLOR][/B]</name>
 <thumbnail>https://ia601509.us.archive.org/4/items/universodc_201910/Lan%C3%A7amentos.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/lancamentos</externallink>
 <fanart>https://ia601509.us.archive.org/4/items/universodc_201910/lancamentos.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - Os Maiores Lançamentos do Cinema você encontra aqui no Nightwolf. - [COLOR deeppink]|[/COLOR]</info>
+[B][COLOR springgreen]Os Maiores Lançamentos do Cinema você encontra aqui no Nightwolf.[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -15,14 +15,14 @@
 
 <channels>
 <channel>
-<name>[B][COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]UNIVERSO MARVEL[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR][/B]</name>
+<name>[B][COLOR springgreen]UNIVERSO MARVEL[/COLOR][/B]</name>
 <thumbnail>https://ia601509.us.archive.org/4/items/universodc_201910/Universo%20Marvel.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Universo%20Marvel</externallink>
 <fanart>https://archive.org/download/marvel-universe/marvel-universe.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - Todos os filmes do universo Marvel, chega primeiro aqui, confira nossa Coleção. - [COLOR deeppink]|[/COLOR]</info>
+[B][COLOR springgreen]Todos os filmes do universo Marvel, chega primeiro aqui, confira nossa Coleção.[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -30,14 +30,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]UNIVERSO DC[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[B][COLOR springgreen]UNIVERSO DC[/COLOR][/B]</name>
 <thumbnail>https://ia601509.us.archive.org/4/items/universodc_201910/Universo%20Dc.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Universo%20DC</externallink>
 <fanart>https://ia601509.us.archive.org/4/items/universodc_201910/Universo-DC-Renascimento-Capa-1155x650.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - Todos os filmes do universo DC, estão aqui reunidos, confira a nossa Coleção. - [COLOR deeppink]|[/COLOR]</info>
+[B][COLOR springgreen]Todos os filmes do universo DC, estão aqui reunidos, confira a nossa Coleção.[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -45,14 +45,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]TERROR[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[B][COLOR springgreen]TERROR[/COLOR][/B]</name>
 <thumbnail>https://ia601509.us.archive.org/4/items/universodc_201910/Terror.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Terror</externallink>
 <fanart>https://ia601509.us.archive.org/4/items/universodc_201910/terror.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - Prepare-se para tremer de medo, com a nossa Coleção de Filmes de Terror. - [COLOR deeppink]|[/COLOR]</info>
+[B][COLOR springgreen]Prepare-se para tremer de medo, com a nossa Coleção de Filmes de Terror.[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -60,14 +60,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]COMÉDIA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[B][COLOR springgreen]COMÉDIA[/COLOR][/B]</name>
 <thumbnail>https://ia601509.us.archive.org/4/items/universodc_201910/Com%C3%A9dia.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Com%C3%A9dia</externallink>
 <fanart>https://ia601509.us.archive.org/4/items/universodc_201910/comedia.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - Reuna a familia toda e venha dar boas gargalhadas com a nossa coleção de Comédia. - [COLOR deeppink]|[/COLOR]</info>
+[B][COLOR springgreen]Reuna a familia toda e venha dar boas gargalhadas com a nossa coleção de Comédia.[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -75,14 +75,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]MORTAL KOMBAT[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[B][COLOR springgreen]MORTAL KOMBAT[/COLOR][/B]</name>
 <thumbnail>https://ia601507.us.archive.org/24/items/fanartmortal/icon%20mortal.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Com%C3%A9dia</externallink>
 <fanart>https://ia601507.us.archive.org/24/items/fanartmortal/fanart%20mortal.png</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - Nem precisa dizer o quanto a nossa equipe não é apaixonado por MK, então bora juntos ver e rever todos os Filmes e Desenhos, "Gett Oveer Heerreee". - [COLOR deeppink]|[/COLOR]</info>
+[B][COLOR springgreen]Nem precisa dizer o quanto a nossa equipe não é apaixonado por MK, então bora juntos ver e rever todos os Filmes e Desenhos, "Gett Oveer Heerreee".[/COLOR][/B]</info>
 </channel>
 </channels>
 
