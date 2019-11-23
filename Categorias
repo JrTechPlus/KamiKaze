@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>[COLOR springgreen]IPTV AO VIVO[/COLOR]</name>
+<name>[B][COLOR springgreen]IPTV AO VIVO[/COLOR][/B]</name>
 <thumbnail>https://dicasuteis.online/wp-content/uploads/2019/01/iptv-1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Iptv</externallink>
 <fanart>https://cdn.pixabay.com/photo/2017/07/31/18/28/room-2559790_960_720.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - OS MELHORES CANAIS, ESTÃO AQUI E DE GRAÇA. - [COLOR deeppink]|[/COLOR]</info>
+[B][COLOR gold]OS MELHORES CANAIS, ESTÃO AQUI E DE GRAÇA.[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -15,14 +15,14 @@
 
 <channels>
 <channel>
-<name>[COLOR springgreen]FILMES[/COLOR]</name>
+<name>[B][COLOR springgreen]FILMES[/COLOR][/B]</name>
 <thumbnail>https://ia601402.us.archive.org/32/items/filmes-2019_201910/filmes-2019.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Filmes</externallink>
 <fanart>https://ia601402.us.archive.org/32/items/filmes-2019_201910/Fanart%20filmes.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES ESTÃO AQUI. - [COLOR deeppink]|[/COLOR]</info>
+[COLOR gold]OS MELHORES FILMES ESTÃO AQUI.[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -30,14 +30,14 @@
 
 <channels>
 <channel>
-<name>[COLOR springgreen]SÉRIES[/COLOR]</name>
+<name>[B][COLOR springgreen]SÉRIES[/COLOR][/B]</name>
 <thumbnail>https://ia601402.us.archive.org/32/items/filmes-2019_201910/S%C3%89RIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/S%C3%A9ries</externallink>
 <fanart>https://ia601402.us.archive.org/32/items/filmes-2019_201910/Fanart%20S%C3%A9ries.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - AS MELHORES SÉRIES, ESTÃO AQUI, DISPONIVEIS PARA VOCÊ. - [COLOR deeppink]|[/COLOR]</info>
+[COLOR gold]AS MELHORES SÉRIES, ESTÃO AQUI, DISPONIVEIS PARA VOCÊ.[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -45,14 +45,14 @@
 
 <channels>
 <channel>
-<name>[COLOR springgreen]KIDS[/COLOR]</name>
+<name>[B][COLOR springgreen]KIDS[/COLOR][/B]</name>
 <thumbnail>https://ia601402.us.archive.org/32/items/filmes-2019_201910/KIDS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Kids</externallink>
 <fanart>https://ia601402.us.archive.org/32/items/filmes-2019_201910/Fanart%20Kids.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - OS MELHORES DESENHOS VOCÊ ENCONTRA AQUI. - [COLOR deeppink]|[/COLOR]</info>
+[COLOR gold]OS MELHORES DESENHOS VOCÊ ENCONTRA AQUI.[/COLOR][/B]</info>
 </channel>
 </channels>
 
