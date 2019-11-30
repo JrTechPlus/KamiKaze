@@ -1,6 +1,6 @@
 <item>
 <title>[B][COLOR gold] Episodio 1[/COLOR][/B]</title>
-<link>https://live.cinexplay.com/assistir/series/o-mandaloriano/dub/1/1.mp4/chunk.m3u8</link>
+<link>http://cdnfe2.azureedge.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP01.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/o7qi2v4uWQ8bZ1tW3KI0Ztn2epk.jpg</fanart>
 <info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>
@@ -10,7 +10,17 @@
 
 <item>
 <title>[B][COLOR gold] Episodio 2[/COLOR][/B]</title>
-<link>https://live.cinexplay.com/assistir/series/o-mandaloriano/dub/1/2.mp4/chunk.m3u8</link>
+<link>http://cdnfe2.azureedge.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP02.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o7qi2v4uWQ8bZ1tW3KI0Ztn2epk.jpg</fanart>
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[B][COLOR gold] Episodio 3[/COLOR][/B]</title>
+<link>http://cdnfe2.azureedge.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP03.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/o7qi2v4uWQ8bZ1tW3KI0Ztn2epk.jpg</fanart>
 <info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>
