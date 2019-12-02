@@ -42,7 +42,17 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[COLOR gold][B]iZombie[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xn3QM6aInhQp631K2lXpGFox2Kc.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://image.tmdb.org/t/p/original/bpJjx45vxmQKSBCIed29BRrvkQP.jpg</fanart>
+<info>
 
+[COLOR gold][B] - iZombie - [/B][/COLOR]</info>
+</channel>
+</channels>
 
 
 
