@@ -150,9 +150,8 @@
 
 <item>
 <title>[COLOR gold][B]Rambo - Até o Fim[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1L71Cn0xHpCatLh7cW4hqfS4y3Eelobpk/view$$lsname=[B][COLOR lime]GDRIVE[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1L71Cn0xHpCatLh7cW4hqfS4y3Eelobpk/view?usp=gdrivesdk</link>
 <thumbnail>https://i.imgur.com/7byFt9u.jpg</thumbnail>
 <fanart>https://i.imgur.com/7byFt9u.jpg</fanart>
 <info>O tempo passou para Rambo (Sylvester Stallone), agora ele vive recluso e trabalha em um rancho que fica na fronteira entre os Estados Unidos e o México. Sua vida antiga marcada por lutas violentas, mas quase sempre vitoriosas, ficou no passado. No entanto, quando a filha de um amigo é sequestrada, Rambo não consegue controlar seu ímpeto por justiça e resolve enfrentar um dos mais perigosos cartéis do México</info>
 </item>
-
