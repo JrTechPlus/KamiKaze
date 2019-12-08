@@ -218,10 +218,17 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<item>
-<title>[B][COLOR lime] Coleção X-men -RC[/COLOR][[/B]</title>
-<link>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Cole%C3%A7%C3%A3o%20X-men</link>
+<channels>
+<channel>
+<name>[B][COLOR springgreen]Coleçaõ X-Men[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/movie/81946-x-men-production-scrapbook?language=pt-BR</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Cole%C3%A7%C3%A3o%20X-men</externallink>
 <fanart>https://image.tmdb.org/t/p/original/bk3mL984lTBwsjS5FJ1pkRPMW0w.jpg</fanart>
-<info>Coleção X-men - todos os melhores filmes estão reunidos aqui, bom filme e boa diversão...</info>
-</item>
+<info>
+
+
+[B][COLOR gold]Coleção X-men - todos os melhores filmes estão reunidos aqui, bom filme e boa diversão...[/COLOR][/B]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
