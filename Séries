@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SUPERNATURAL[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR gold][B]SUPERNATURAL[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4r54FHS9XKNI1LsxAM7KAhXxnL9.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Supernatural</externallink>
 <fanart>https://image.tmdb.org/t/p/original/koMUCyGWNtH5LXYbGqjsUwvgtsT.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - SUPERNATURAL 15º TEMPORADA - [COLOR deeppink]|[/COLOR]</info>
+[COLOR gold] - SUPERNATURAL 15º TEMPORADA - [/COLOR]</info>
 </channel>
 </channels>
 
@@ -15,14 +15,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Game Of Thrones[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR gold][B]Game Of Thrones[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDd5Zd9VMOqBeHa2agbnHZ98WWr.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Game%20Of%20Thrones</externallink>
 <fanart>https://image.tmdb.org/t/p/original/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - Game Of Thrones - Completo - [COLOR deeppink]|[/COLOR]</info>
+[COLOR gold] - Game Of Thrones - Completo - [/COLOR]</info>
 </channel>
 </channels>
 
@@ -54,6 +54,19 @@
 </channel>
 </channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Todo Mundo odeia o Chris[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYfvhUtbqMGtd5iV9sj2fdEFN5p.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Todo%20Mundo%20Odeia%20o%20Chris</externallink>
+<fanart>https://image.tmdb.org/t/p/original/wTlk9eiV1ebPaQpXB8ZqtiKY77l.jpg</fanart>
+<info>
+
+[COLOR gold][B] - Todo Mundo odeia o Chris, Todas as Temporadas. - [/B][/COLOR]</info>
+</channel>
+</channels>
 
 
 
