@@ -68,5 +68,18 @@
 </channel>
 </channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Dark[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajmkAwuK1TRFWMjKoSMgoAXbnc7.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Dark</externallink>
+<fanart>https://image.tmdb.org/t/p/original/uXktUd3KYSbwDGPTvjhP2mo0E7I.jpg</fanart>
+<info>
+
+[COLOR gold][B] - A história acompanha quatro diferentes famílias que vivem em uma pequena cidade alemã. Suas vidas pacatas são completamente atormentadas quando duas crianças desaparecem misteriosamente e os segredos obscuros das suas famílias começam a ser desvendados. - [/B][/COLOR]</info>
+</channel>
+</channels>
 
 
