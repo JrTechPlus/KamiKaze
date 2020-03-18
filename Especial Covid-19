@@ -7,12 +7,25 @@
 </item>
 
 <item>
-<title>[COLOR gold]Pandemia - 2016[/COLOR]</title>
+<title>[B][COLOR gold]Pandemia - 2016[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpVfJsIDZ01KJNAPCoEFXfzzr6g.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8HAdba1ocAAghLLool5JLd8KDTO.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AOirJIlNu4nIVaVhhtZ-UrZ7Z3WQZ8PB/view?usp=gdrivesdk</link>
 <info>Um vírus zumbi está dizimando a população e um grupo de cientistas precisa sair a campo para resgatar aquelas que ainda não foram contaminadas. A busca pela cura gera uma corrida contra o tempo, enquanto na rua todos lutam para sobreviver aos ataques de zumbis.</info>
 </item>
+
+<item>
+<title>[B][COLOR gold]Contágio - 2011[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8baca9444736c193541af267bcb28b10424fa54&dn=Cont%26aacute%3Bgio+%282011%29+Bluray+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXmP6BNy3sLcZD7TqRllaRzlQl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/57kqAPdVJTAJ4rnDTSVDx0f1JBu.jpg</fanart>
+<info>Contágio segue o rápido progresso de um vírus letal, transmissível pelo ar, que mata em poucos dias. Como a epidemia se espalha rapidamente, a comunidade médica mundial inicia uma corrida para encontrar a cura e controlar o pânico que se espalha mais rápido do que o próprio vírus. Ao mesmo tempo, pessoas comuns lutam para sobreviver em uma sociedade que está desmoronando.</info>
+</item>
+
+
+
+
+
 
 
 
