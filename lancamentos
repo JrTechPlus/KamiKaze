@@ -322,7 +322,7 @@
 
 <item>
 <title>[B][COLOR gold]O Poço - 2020[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eqYviKBZnvRJwlTyx0AfIv0zehdL8VP2/view?=usp=gdrivesdk</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b3f34acef0bc58c1e3707954933bde8b2c6984a</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/98IYochr5fDGYelXpmiIXE2TLBB.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uNiTCaBIpw4vrRGEFKFm3VSt8Sm.jpg</fanart>
 <info>Em uma prisão onde os detentos nos andares de cima comem melhor do que os que estão abaixo, um homem decide fazer algo para mudar essa situação.</info>
@@ -343,3 +343,4 @@
 <fanart>https://image.tmdb.org/t/p/original/ocUrMYbdjknu2TwzMHKT9PBBQRw.jpg</fanart>
 <info>Bloodshot é um ex-soldado com poderes especiais: o de regeneração e a capacidade de se metamorfosear. Assassinado ao lado da esposa, ele é ressuscitado e aprimorado com nanotecnologia, desenvolvendo tais habilidades. Ao apagarem sua memória várias vezes, ele finalmente descobre quem realmente é e parte em um busca de vingança daqueles que mataram sua família.</info>
 </item>
+
