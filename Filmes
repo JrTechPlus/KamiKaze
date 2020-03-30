@@ -15,6 +15,21 @@
 
 <channels>
 <channel>
+<name>[B][COLOR springgreen]Coleção Stephen King[/COLOR][/B]</name>
+<thumbnail>https://www.infoescola.com/wp-content/uploads/2017/09/Stephen-King_96909487.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Colec%C3%A3o%20Stephen%20King</externallink>
+<fanart>https://miro.medium.com/max/2800/0*IdUhDhxwjLwYSHod.jpg</fanart>
+<info>
+
+
+[B][COLOR springgreen] - Stephen Edwin King é um escritor norte-americano de terror, ficção sobrenatural, suspense, ficção científica e fantasia. Os seus livros já venderam mais de 400 milhões de cópias, com publicações em mais de 40 países. É o nono autor mais traduzido no mundo. - [/COLOR][/B]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[B][COLOR springgreen]UNIVERSO MARVEL[/COLOR][/B]</name>
 <thumbnail>https://ia601509.us.archive.org/4/items/universodc_201910/Universo%20Marvel.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Universo%20Marvel</externallink>
