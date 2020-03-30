@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>[COLOR gold][B]Arcanjo Renegado 1ª Temporada[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Arcanjo%20Renegado</externallink>
+<fanart>https://image.tmdb.org/t/p/original/zcc32ExBGpCu0dwbthaj57lVaWR.jpg</fanart>
+<info>
+
+
+[COLOR gold][B] - Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado. - [/B][/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR gold][B]SUPERNATURAL[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4r54FHS9XKNI1LsxAM7KAhXxnL9.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Supernatural</externallink>
