@@ -1,4 +1,14 @@
 <item>
+<title>[COLOR gold][B] O Primeiro Homem - 2018[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1R84izA_nBX42g82QJcRL6GON5bMCg5M4/view?usp=gdrivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRQ0CKECt5B3aE8YqW9r6DvaxRY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jrudoaXcoLyHRPdolyOGemXgPEs.jpg</fanart>
+<info>A vida do astronauta norte-americano Neil Armstrong e sua jornada para se tornar o primeiro homem a andar na Lua. Os sacrifícios e custos de Neil e toda uma nação durante uma das mais perigosas missões na história das viagens espaciais.</info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
 <title>[B][COLOR gold]El Camino Breaking Bad Film - 2016[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86d92c7bdbaaa27b9c0b98330e74fd2917cd0a04</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4Il6gsDrOvrW5vi1ndTDR98UmS.jpg</thumbnail>
