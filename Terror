@@ -1,4 +1,14 @@
 <item>
+<title>[COLOR gold][B]Estranha Presença - 2018[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UkeFvuz2kjPjVoF63Ig-wTCKhSr7Nzux/view?usp=gdrivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOZ7M9GAKl6SvgKnXg4Wx5aTe9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yxgwBGopZ47buYYBcerdH57VORY.jpg</fanart>
+<info>A família Ayres, que vive numa grande mansão na Inglaterra no período pós-guerra, chama o Dr. Faraday (Domhnall Gleeson), um respeitado médico da região, para atendê-los em casa. No entanto, o médico acaba descobrindo grandes segredos da família que não deveriam ter sido revelados.</info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
 <title>[B][COLOR gold]O Lobisomem - 2010[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d70307da0b0817a7076247e7b3ff715eff9a6d9a</link>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQprovrKZOdhTxeG5YOfwYHHEzy_0UgrUMEV7ewnPxSsUpZLwnp</thumbnail>
