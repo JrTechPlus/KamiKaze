@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>[COLOR gold][B]Carta ao Rei 1ª Temporada[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvLHX43Btkayypqp23fWaROILa5.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Carta%20ao%20Rei</externallink>
+<fanart>https://image.tmdb.org/t/p/original/wRqxtYHf3f2b340bWsNGMpitOqI.jpg</fanart>
+<info>
+
+
+[COLOR gold][B] - Um jovem aprendiz de cavaleiro encara profecias antigas, poderes mágicos e colegas volúveis em sua épica jornada para salvar o reino. - [/B][/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR gold][B]Hunters 1ª Temporada[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJlr9hIwtQzgIxKQf6ic3dMJKlF.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Hunters%20-%20Completa</externallink>
