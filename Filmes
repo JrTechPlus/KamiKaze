@@ -30,6 +30,21 @@
 
 <channels>
 <channel>
+<name>[B][COLOR springgreen]DRAMA[/COLOR][/B]</name>
+<thumbnail>https://i.pinimg.com/originals/67/49/3b/67493b909f32cdf93f72201393a632ef.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Colec%C3%A3o%20Stephen%20King</externallink>
+<fanart>https://guiadanetflix.com.br/wp-content/uploads/2017/03/O-lugar-onde-tudo-termina.jpg</fanart>
+<info>
+
+
+[B][COLOR springgreen] - Já prepara o lencinho, e vem conosco curtir a coleção de filmes Dramas do Nightwolf - [/COLOR][/B]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[B][COLOR springgreen]UNIVERSO MARVEL[/COLOR][/B]</name>
 <thumbnail>https://ia601509.us.archive.org/4/items/universodc_201910/Universo%20Marvel.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Universo%20Marvel</externallink>
