@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>[COLOR gold][B]The Witcher[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2oBYUKgjdy0UeIP88kkdyjw8z6.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/The%20Witcher</externallink>
+<fanart>https://image.tmdb.org/t/p/original/kysKBF2CJG9qfQDSCDaboJrkZy1.jpg</fanart>
+<info>
+
+
+[COLOR gold][B] - O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar num mundo onde as pessoas muitas vezes são mais perversas que as criaturas selvagens. - [/B][/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR gold][B]Anne with an E - Completa[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWdSSB1La6FcXZUuuwvcqvB6Kdf.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Anne%20with%20an%20E%20-%20Completa</externallink>
