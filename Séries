@@ -1,5 +1,18 @@
 <channels>
 <channel>
+<name>[COLOR gold][B]Home Before Dark - Completo[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lXoJ6kqWQzQM8GTSWZlCOxSs70.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Home%20Before%20Dark</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ukKBdT7Sq3IEbvRJZ2PXmZVkMwA.jpg</fanart>
+<info>
+[COLOR gold][B] - Um mistério inspirado na reportagem de uma jornalista de nove anos de idade. Quando ela e sua família se mudam para a cidade que seu pai deixou para trás, a busca pela verdade leva à descoberta de um caso há muito tempo enterrado - [/B][/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR gold][B]O Último Cara da Terra - Completo[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5my7rGdrjukKhsx5t32BRUBTTzt.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/O%20%C3%9Altimo%20Cara%20da%20Terra</externallink>
