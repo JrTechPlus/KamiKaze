@@ -210,6 +210,21 @@
 
 <channels>
 <channel>
+<name>[B][COLOR springgreen]NACIONAIS[/COLOR][/B]</name>
+<thumbnail>https://lh3.googleusercontent.com/proxy/JEG0v0sgrAWJnjYG0of5KqB5h4nga9VBqjPbTqtL-AMh3MRRLbWTDTeIc0zJqKx-m7tLIXWE7mmqA8QRJrot-imhJwFMuF8540BaKMYvxo72ayIGO0nfK164fe4Rew</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Nacionais</externallink>
+<fanart>https://lh3.googleusercontent.com/proxy/JEG0v0sgrAWJnjYG0of5KqB5h4nga9VBqjPbTqtL-AMh3MRRLbWTDTeIc0zJqKx-m7tLIXWE7mmqA8QRJrot-imhJwFMuF8540BaKMYvxo72ayIGO0nfK164fe4Rew</fanart>
+<info>
+
+
+[B][COLOR springgreen]Curta a nossa coleção de filmes de ficção.[/COLOR][/B]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[B][COLOR red]ESPECIAL COVID-19[/COLOR][/B]</name>
 <thumbnail>https://ia601507.us.archive.org/17/items/logocovid19/Logo%20Covid-19.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Especial%20Covid-19</externallink>
