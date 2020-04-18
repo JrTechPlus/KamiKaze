@@ -1,5 +1,15 @@
 <channels>
 <channel>
+<name>[COLOR gold][B]Quantico - Completo[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCy1fwk2uHQhAY4FEuG29lvmHmC.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Quantico</externallink>
+<fanart>https://image.tmdb.org/t/p/original/epZ4DoljIEn8sK63DkZl7QEnh8Z.jpg</fanart>
+<info>[COLOR gold][B] - Um grupo bastante diversificado de recrutas chegam à base do FBI em Quântico para treinar. Eles são os melhores, mais brilhantes e mais testados, então parece impossível que um deles seja suspeito de ser a grande mente por trás do maior ataque a Nova York desde 11 de setembro - [/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]Marianne - Completo[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vORXihb6o0UvzHZfikBSD7H13Qk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Marianne%201%C2%AA%20Temporada</externallink>
