@@ -1,5 +1,15 @@
 <channels>
 <channel>
+<name>[COLOR gold][B]Breaking Bad - Completo[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggFHVNu6YYI5L9pCfOacjizRGt.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Breaking%20Bad</externallink>
+<fanart>https://image.tmdb.org/t/p/original/je0kra0a8WMkzL3hJVDXjK2AB2B.jpg</fanart>
+<info>[COLOR gold][B] - Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futuro da família, mudando o destino de todos - [/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]Grey's Anatomy - Completo[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/edmk8xjGBsYVIf4QtLY9WMaMcXZ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Grey's%20Anatomy</externallink>
