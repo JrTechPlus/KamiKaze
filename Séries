@@ -1,5 +1,15 @@
 <channels>
 <channel>
+<name>[COLOR gold][B]Taken - Completo[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/bfAGotvZUVOBLHwoHNmWo8nEL7q.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Taken</externallink>
+<fanart>https://image.tmdb.org/t/p/w220_and_h330_face/bfAGotvZUVOBLHwoHNmWo8nEL7q.jpg</fanart>
+<info>[COLOR gold][B] - O ex-membro das Forças Especiais americanas Bryan Mills (Clive Standen) sofre uma perda pessoal que o leva a procurar uma carreira como agente secreto para buscar vingança enquanto lida com sua dor e acaba adquirindo um conjunto de habilidades muito especiais no processo. - [/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]Breaking Bad - Completo[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggFHVNu6YYI5L9pCfOacjizRGt.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Breaking%20Bad</externallink>
