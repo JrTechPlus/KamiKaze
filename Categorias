@@ -75,6 +75,21 @@
 
 <channels>
 <channel>
+<name>[B][COLOR springgreen]TOKUSATSUS[/COLOR][/B]</name>
+<thumbnail>https://ia601408.us.archive.org/27/items/20200501-230636-0000-1/20200501_230636_0000_1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Tokusatsus</externallink>
+<fanart>https://ia601408.us.archive.org/27/items/20200501-230636-0000-1/20200501_230636_0000_1.jpg</fanart>
+<info>
+
+
+[COLOR gold][B]Tokusatsu é um termo em japonês para filmes ou séries live-action que fazem um uso forte de efeitos especiais. Apesar de ser um termo japonês, hoje em dia, também refere-se as séries que seguem a mesma linha de produção e conceito ao redor do mundo.[/COLOR][/B]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[B][COLOR springgreen]KIDS[/COLOR][/B]</name>
 <thumbnail>https://ia801506.us.archive.org/10/items/vintage_202004/kids.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Kids</externallink>
