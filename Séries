@@ -1,5 +1,15 @@
 <channels>
 <channel>
+<name>[COLOR gold][B]Manhunt - Completo[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmSOPIOenH39XHEdtfPwgi2lWNj.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Manhunt%3A%20Unabomber</externallink>
+<fanart>https://image.tmdb.org/t/p/original/z2ZmYbhk0McewduBFtCqkmcZoqT.jpg</fanart>
+<info>[COLOR gold][B] - A série conta a história do agente do FBI Jim “Fitz” Fitzgerald (Sam Worthington), que participou da força-tarefa Unabom e precisou combater a burocracia da instituição enquanto trabalhava na caça de Theodore Kaczynski, também conhecido como Unabomber (Paul Bettany). Seu trabalho levou à captura de Kaczynski 17 anos depois de seu primeiro bombardeio em 1978 - [/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]Luna Nera - Completo[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dpUwYhOtbwKUVN6auG6U9qQhX9.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Luna%20Nera</externallink>
