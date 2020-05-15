@@ -1,5 +1,15 @@
 <channels>
 <channel>
+<name>[COLOR gold][B]Teen Wolf - Completo[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ij1O2nU8exLgwPXU8Eo6PZdCDC.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Teen%20Wolf</externallink>
+<fanart>https://image.tmdb.org/t/p/original/460ZoRDmSPDxU3VAbzlgTcbcEPh.jpg</fanart>
+<info>[COLOR gold][B] - Após ser mordido por um animal, Scott vira lobisomem e o cara adorado por todas na escola. Só que ele também ganha novos problemas - [/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]Manhunt - Completo[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmSOPIOenH39XHEdtfPwgi2lWNj.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Manhunt%3A%20Unabomber</externallink>
