@@ -105,6 +105,21 @@
 
 <channels>
 <channel>
+<name>[B][COLOR springgreen]JOGOS INESQUECÍVEIS[/COLOR][/B]</name>
+<thumbnail>https://s2.glbimg.com/I6NKO3qao2FBmTU4eiC1Lxl5Z-k=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/d/Z/4H74IvSum1L84Yv7vktw/carrossel-jogos-inesqueciveis.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Jogos%20Inesquec%C3%ADveis</externallink>
+<fanart>https://s2.glbimg.com/I6NKO3qao2FBmTU4eiC1Lxl5Z-k=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/d/Z/4H74IvSum1L84Yv7vktw/carrossel-jogos-inesqueciveis.jpg</fanart>
+<info>
+
+
+[COLOR gold][B]OS MELHORES JOGOS, VIVA A EMOÇÃO DE REVER AQUELE JOGO QUE MARCOU GERAÇÕES.[/COLOR][/B]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[B][COLOR springgreen]PARCEIROS[/COLOR][/B]</name>
 <thumbnail>https://ia801506.us.archive.org/10/items/vintage_202004/Parceiros.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Parceiros</externallink>
