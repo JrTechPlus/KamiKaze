@@ -1,5 +1,15 @@
 <channels>
 <channel>
+<name>[COLOR gold][B]The 100 - Completo[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/The%20100</externallink>
+<fanart>https://image.tmdb.org/t/p/original/yDra4fvpFH6JubOm6yqBAnGA2QS.jpg</fanart>
+<info>[COLOR gold][B] - Noventa e Sete anos antes, um apocalipse nuclear dizimou o planeta Terra e destruiu a civilização. Os únicos sobreviventes foram os 400 habitantes de 12 estações espaciais que estavam em órbita durante o acontecimento. Depois de tantos anos, a população das aeronaves aumentou e os recursos estão quase acabando, o que pode significar o fim dos seres humanos. Por isso, os comandantes enviam para a Terra cem jovens prisioneiros, na tentativa de testar a situação no nosso planeta e descobrir se existe a possibilidade de retorno ao local. Além de lidarem com as próprias diferenças, o grupo precisa se unir para enfrentar os perigos que os aguardam por causa da radiação. Para complicar, tudo indica que eles não estão sozinhos. - [/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]The Outsider - Completo[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDT2ZU9Xd2dt0svfO4qYYtziVP5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/The%20Outsider</externallink>
