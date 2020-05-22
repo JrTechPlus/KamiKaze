@@ -1,5 +1,15 @@
 <channels>
 <channel>
+<name>[COLOR gold][B]The Outsider - Completo[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDT2ZU9Xd2dt0svfO4qYYtziVP5.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/The%20Outsider</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ydmQkZjlvGYQNHL1lSARf6ckpJI.jpg</fanart>
+<info>[COLOR gold][B] - Baseado no romance de Stephen King, este thriller psicológico segue um detetive e uma investigadora particular que investigam o caso do macabro assassinato de um menino e a sinistra força sobrenatural que o ronda. - [/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]The Originals - Completo[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2llbXc2BOkLkBGgcNJCRbrWedUO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/The%20Originals</externallink>
