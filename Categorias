@@ -45,6 +45,21 @@
 
 <channels>
 <channel>
+<name>[B][COLOR springgreen]DOCUMENTÁRIOS[/COLOR][/B]</name>
+<thumbnail>https://iefy.com.br/wp-content/uploads/2017/11/12.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/Document%C3%A1rios</externallink>
+<fanart>https://iefy.com.br/wp-content/uploads/2017/11/12.jpg</fanart>
+<info>
+
+
+[COLOR gold][B]OS MELHORES DOCUMENTÁRIOS, OS MELHORES TALK-SHOWS, TUDO PRA VOCÊS.[/COLOR][/B]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[B][COLOR springgreen]SÉRIES[/COLOR][/B]</name>
 <thumbnail>https://ia801506.us.archive.org/10/items/vintage_202004/series.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/nightwolf/master/S%C3%A9ries</externallink>
