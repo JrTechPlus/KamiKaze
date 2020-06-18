@@ -1,20 +1,5 @@
 <channels>
 <channel>
-<name>[B][COLOR darkorange]Bem Vindo ao KamiKaze[/COLOR][/B]</name>
-<thumbnail>https://ia601400.us.archive.org/0/items/series-vintage-01/Bem%20Vindo%20Addon-01.png</thumbnail>
-<externallink>ignore</externallink>
-<fanart>https://ia601400.us.archive.org/0/items/series-vintage-01/Bem%20Vindo%20Addon-01.png</fanart>
-<info>
-
-
-[B][COLOR gold]SEJA BEM VINDO AO KAMIKAZE - AQUI VOCÊ VAI ENCONTRAR FILMES, DESENHOS, SÉRIES, MÚSICAS. SHOWS, JOGOS E MUITO MAIIS - "The KamiKaze - A Palavra de um Nija, sempre será seu maior Juramento."[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[B][COLOR darkorange]FILMES[/COLOR][/B]</name>
 <thumbnail>https://ia601400.us.archive.org/0/items/series-vintage-01/Filmes-01.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/KamiKaze/master/Filmes</externallink>
