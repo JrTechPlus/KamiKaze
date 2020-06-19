@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>[B][COLOR darkorange]ATLZ. DO DIA[/COLOR][/B]</name>
+<thumbnail>https://ia601400.us.archive.org/14/items/atlz.-do-dia-fanart_202006/Atlz.%20do%20DIA-01%20-%20512x512.png</thumbnail>
+<externallink>ignore</externallink>
+<fanart>https://ia601400.us.archive.org/14/items/atlz.-do-dia-fanart_202006/Atlz.%20do%20DIA-fanart.png</fanart>
+<info>
+
+
+[COLOR tomato][B]AQUI SERÁ POSTADO TODOS OS DIAS, AS ATUALIZAÇÕES DO ADDON, OS CONTEUDOS E RECADOS...[/COLOR][/B]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[B][COLOR darkorange]FILMES[/COLOR][/B]</name>
 <thumbnail>https://ia601400.us.archive.org/0/items/series-vintage-01/Filmes-01.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nightwolfaddon/KamiKaze/master/Filmes</externallink>
@@ -12,19 +27,6 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[B][COLOR darkorange]ATLZ. DO DIA[/COLOR][/B]</name>
-<thumbnail>ignore</thumbnail>
-<externallink>ignore</externallink>
-<fanart>ignore</fanart>
-<info>
-
-
-[COLOR tomato][B]AQUI SERÁ POSTADO TODOS OS DIAS, AS ATUALIZAÇÕES DO ADDON, OS CONTEUDOS E RECADOS...[/COLOR][/B]</info>
-</channel>
-</channels>
 
 <channels>
 <channel>
